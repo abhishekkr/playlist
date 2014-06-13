@@ -10,6 +10,19 @@ iframe.tubeFrame {
   height: 95%;
 }
 
+.Font32{
+  font-size: 32px;
+}
+
+.Font64{
+  font-size: 64px;
+}
+
+.RETROtxt {
+  color: #f8f8ff;
+  text-shadow: 0 2px 0 #b2a98f,0 7px 5px rgba(0,0,0,0.15), 0 12px 1px rgba(0,0,0,0.1), 0 17px 15px rgba(0,0,0,0.1);
+}
+
 #playlist {
   margin:0 auto;
   width: 90%;
@@ -17,21 +30,33 @@ iframe.tubeFrame {
   border: 1px dotted lightblue;
   background-color: #ddd;
 }
-
-#mylist {
-  display:none;
-  margin: 0 auto;
-  padding:20px 0 0;
-  border: 1px dotted lightblue;
+#footer {
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+    position:fixed;
+    width: 100%;
+    bottom:10px;
 }
 
-#search_sort {
-  width: 90%;
+#search_sort_banner {
   margin: 0 auto;
+  width:95%;
+  display:block;
+}
+#banner{
+  display: inline-block;
+  vertical-align: top;
+}
+#search_sort {
+  display: inline-block;
+  vertical-align: bottom;
+  text-align: right;
+  right:0px;
 }
 
 .pagination {
-  width: 90%;
+  width: 45%;
   margin: 0 auto;
   text-align: center;
 }
@@ -52,7 +77,9 @@ iframe.tubeFrame {
 
 .list_div {
   margin: 0 auto;
-  width: 90%;
+  width: 100%;
+  text-align: center;
+  display: inline-block;
 }
 
 .tags{
