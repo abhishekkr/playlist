@@ -1,12 +1,35 @@
-<!DocType html>
+<!DOCTYPE html>
 <html>
-	<head>
-		<title>PlayList : consolidate all the embedd-able online media</title>
-    <!--
-    <meta http-equiv="refresh" content="2; URL=/www-data/index.html">
+<head>
+<!--
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.0.0/list.min.js"></script>
 -->
-    <meta http-equiv="refresh" content="2; URL=http://abhishekkr.github.io/playlist/www-data/index.html">
-    <meta name="keywords" content="automatic redirection">
-		<meta charset=utf-8 />
-	</head>
+<script src="/playlist/www-data/static/js/jquery-2.1.1.min.js"></script>
+<script src="/playlist/www-data/static/js/list.min.js"></script>
+<script src="/playlist/www-data/static/js/list.pagination.js"></script>
+<link rel="stylesheet" href="/playlist/www-data/static/css/playlist.css" />
+<meta charset=utf-8 />
+<title>Existing list</title>
+</head>
+<body>
+
+<div id="playlist">
+  <div id="search_sort_banner">
+  	<span id="banner">
+  		<span class="RETROtxt Font32">search maah </span><span class="RETROtxt Font64">Playlist</span>
+  	</span>
+  	<span id="search_sort">
+    	<input class="search" placeholder="Search" />
+    	<button class="sort" data-sort="title"> Sort by Title </button>
+    	<button class="sort" data-sort="artists"> Sort by Artists </button>
+    </span>
+  </div>
+
+  <div class="pagination_div"> <ul class="pagination"></ul> </div>
+  <div class="list_div"> <ul class="list"> </ul> </div>
+</div>
+<div id="footer">have your own playlist using: <a href="http://github.com/abhishekkr/playlist">http://github.com/abhishekkr/playlist</a></div>
+
+<script src="/playlist/www-data/static/js/playlist.js"></script>
+</body>
 </html>
