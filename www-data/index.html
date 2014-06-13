@@ -4,20 +4,26 @@
 <!--
 <script src="//cdnjs.cloudflare.com/ajax/libs/list.js/1.0.0/list.min.js"></script>
 -->
+<script src="/www-data/static/js/jquery-2.1.1.min.js"></script>
 <script src="/www-data/static/js/list.min.js"></script>
+<script src="/www-data/static/js/list.pagination.js"></script>
 <link rel="stylesheet" href="/www-data/static/css/playlist.css" />
 <meta charset=utf-8 />
 <title>Existing list</title>
 </head>
 <body>
 
-<div id="users">
-  <input class="search" placeholder="Search" />
-  <button class="sort" data-sort="name">
-    Sort by name
-  </button>
+<div id="mylist"> </div>
 
-  <ul class="list"> </ul>
+<div id="playlist">
+  <div id="search_sort">
+    <input class="search" placeholder="Search" />
+    <button class="sort" data-sort="title"> Sort by Title </button>
+    <button class="sort" data-sort="artists"> Sort by Artists </button>
+  </div>
+
+  <div class="pagination_div"> <ul class="pagination"></ul> </div>
+  <div class="list_div"> <ul class="list"> </ul> </div>
 </div>
 
 <script src="/www-data/static/js/playlist.js"></script>
