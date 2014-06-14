@@ -31,12 +31,29 @@ iframe.tubeFrame {
   background-color: #ddd;
 }
 #footer {
-    clear: both;
-    margin: 0 auto;
-    text-align: center;
-    position:fixed;
-    width: 100%;
-    bottom:10px;
+  clear: both;
+  margin: 0 auto;
+  text-align: center;
+  position:fixed;
+  width: 95%;
+  bottom:5px;
+  color: #bcd;
+  background-color: #000;
+}
+#footer > span {
+  padding: 50px;
+}
+#footer > a:link {
+  color: #eee;
+}
+#footer > a:visited {
+  color: #ccc;
+}
+#footer > a:hover {
+  color: #fff;
+}
+#footer > a:active {
+  color: #eee;
 }
 
 #search_sort_banner {
