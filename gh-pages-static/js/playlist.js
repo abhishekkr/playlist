@@ -18,8 +18,8 @@ var options = {
 var values = [{
     title: 'I\'ve Got The World On A String',
     artists: 'Frank Sinatra',
-    link: 'http://www.youtube.com/watch?v=h3nMbu0QuZg',
-    embed: '<iframe class="tubeFrame" src="//www.youtube.com/embed/h3nMbu0QuZg?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>',
+    link: 'https://www.youtube.com/watch?v=1cPG1t52GgI',
+    embed: '<iframe class="tubeFrame" src="//www.youtube.com/embed/1cPG1t52GgI?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>',
     tags: 'english, frank, sinatra'
   }
   ];
