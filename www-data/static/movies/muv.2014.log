@@ -1,0 +1,26 @@
+---
+
+- title: Divergent
+  imdb:
+    - url: http://www.imdb.com/title/tt1840309/
+
+- title: Edge of Tomorrow
+  imdb:
+    - url: http://www.imdb.com/title/tt1631867/
+
+- title: Mardaani
+  imdb:
+    - url: http://www.imdb.com/title/tt3495000/
+
+- title: Neighbors
+  imdb:
+    - url: http://www.imdb.com/title/tt2004420/
+
+- title: Teenage Mutant Ninja Turtles
+  imdb:
+    - url: http://www.imdb.com/title/tt1291150/
+
+- title: The Equalizer
+  imdb:
+    - url: http://www.imdb.com/title/tt0455944/
+

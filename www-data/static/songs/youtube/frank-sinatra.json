@@ -1,0 +1,44 @@
+[
+	{
+	    "title": "Fly me to the moon",
+	    "artists": "Frank Sinatra",
+	    "link": "https://www.youtube.com/watch?v=mhujM7T1_fQ",
+	    "embed": "//www.youtube.com/embed/mhujM7T1_fQ?feature=player_detailpage",
+	    "tags": "english, frank, sinatra"
+	},
+        {
+            "title": "One for my Baby and one more for the Road",
+            "artists": "Frank Sinatra",
+            "link": "https://www.youtube.com/watch?v=CD7aWI2favI",
+            "embed": "//www.youtube.com/embed/CD7aWI2favI?feature=player_detailpage",
+            "tags": "english, frank, sinatra"
+        },
+	{
+	    "title": "I've got you under my skin",
+	    "artists": "Frank Sinatra",
+	    "link": "https://www.youtube.com/watch?v=g3GYUvsFPpM",
+	    "embed": "//www.youtube.com/embed/g3GYUvsFPpM?feature=player_detailpage",
+	    "tags": "english, frank, sinatra"
+	},
+	{
+	    "title": "I can't get started",
+	    "artists": "Frank Sinatra",
+	    "link": "https://www.youtube.com/watch?v=BKpAHZxkhJw",
+	    "embed": "//www.youtube.com/embed/BKpAHZxkhJw?feature=player_detailpage",
+	    "tags": "english, frank, sinatra"
+	},
+	{
+	    "title": "The Moon is Yellow",
+	    "artists": "Frank Sinatra",
+	    "link": "https://www.youtube.com/watch?v=FPH0QSqq4Jg",
+	    "embed": "//www.youtube.com/embed/FPH0QSqq4Jg?feature=player_detailpage",
+	    "tags": "english, frank, sinatra"
+	},
+	{
+	    "title": "The Moon was Yellow",
+	    "artists": "Frank Sinatra",
+	    "link": "https://www.youtube.com/watch?v=5ESNnK1pf1k",
+	    "embed": "//www.youtube.com/embed/5ESNnK1pf1k?feature=player_detailpage",
+	    "tags": "english, frank, sinatra"
+        }
+]
