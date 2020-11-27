@@ -15,12 +15,13 @@ var options = {
   plugins: [ ListPagination({}) ]
 };
 
-var values = [{
+var values = [
+  {
     title: 'I\'ve Got The World On A String',
     artists: 'Frank Sinatra',
-    link: 'https://www.youtube.com/watch?v=1cPG1t52GgI',
-    embed: '<iframe class="tubeFrame" src="//www.youtube.com/embed/1cPG1t52GgI?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>',
-    tags: 'english, frank, sinatra'
+    link: 'https://www.youtube.com/watch?v=jG6wvF_1g_o',
+    embed: '<iframe class="tubeFrame" src="//www.youtube.com/embed/jG6wvF_1g_o?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>',
+    tags: 'english, frank, sinatra, jazz'
   }
   ];
 
@@ -38,7 +39,7 @@ function update_list(this_item){
   });
 }
 
-youtube_json =  "/playlist/gh-pages-static/songs/youtube.json"
+youtube_json =  "./gh-pages-static/songs/youtube.json"
 $.getJSON( youtube_json, {}) .done(function( json ) {
       $(jQuery.parseJSON(JSON.stringify(json))).each(function() {
           update_list(this)

@@ -1,765 +1,982 @@
 [
-	{
-	    "title": "Fly me to the moon",
-	    "artists": "Frank Sinatra",
-	    "link": "https://www.youtube.com/watch?v=mhujM7T1_fQ",
-	    "embed": "//www.youtube.com/embed/mhujM7T1_fQ?feature=player_detailpage",
-	    "tags": "english, frank, sinatra"
-	},
         {
-            "title": "One for my Baby and one more for the Road",
-            "artists": "Frank Sinatra",
-            "link": "https://www.youtube.com/watch?v=CD7aWI2favI",
-            "embed": "//www.youtube.com/embed/CD7aWI2favI?feature=player_detailpage",
-            "tags": "english, frank, sinatra"
-        },
-	{
-	    "title": "I've got you under my skin",
-	    "artists": "Frank Sinatra",
-	    "link": "https://www.youtube.com/watch?v=g3GYUvsFPpM",
-	    "embed": "//www.youtube.com/embed/g3GYUvsFPpM?feature=player_detailpage",
-	    "tags": "english, frank, sinatra"
-	},
-	{
-	    "title": "I can't get started",
-	    "artists": "Frank Sinatra",
-	    "link": "https://www.youtube.com/watch?v=BKpAHZxkhJw",
-	    "embed": "//www.youtube.com/embed/BKpAHZxkhJw?feature=player_detailpage",
-	    "tags": "english, frank, sinatra"
-	},
-	{
-	    "title": "The Moon is Yellow",
-	    "artists": "Frank Sinatra",
-	    "link": "https://www.youtube.com/watch?v=FPH0QSqq4Jg",
-	    "embed": "//www.youtube.com/embed/FPH0QSqq4Jg?feature=player_detailpage",
-	    "tags": "english, frank, sinatra"
-	},
-	{
-	    "title": "The Moon was Yellow",
-	    "artists": "Frank Sinatra",
-	    "link": "https://www.youtube.com/watch?v=5ESNnK1pf1k",
-	    "embed": "//www.youtube.com/embed/5ESNnK1pf1k?feature=player_detailpage",
-	    "tags": "english, frank, sinatra"
-	},
-	{
-	    "title": "Eee O Eleven",
-	    "artists": "Sammy Davis Jr",
-	    "link": "https://www.youtube.com/watch?v=Fv1dKWYQ4E8",
-	    "embed": "//www.youtube.com/embed/ZZ1UQIdS50U?feature=player_detailpage",
-	    "tags": "english, sammy, davis, oceans 11, soundtrack, movie"
-	},
-	{
-	    "title": "Mr Bojangles",
-	    "artists": "Sammy Davis Jr",
-	    "link": "https://www.youtube.com/watch?v=8topnj7zWf0",
-	    "embed": "//www.youtube.com/embed/8topnj7zWf0?feature=player_detailpage",
-	    "tags": "english, sammy, davis"
-	},
-	{
-	    "title": "I've gotta be me",
-	    "artists": "Sammy Davis Jr",
-	    "link": "https://www.youtube.com/watch?v=Nl4SRVXgGiI",
-	    "embed": "//www.youtube.com/embed/Nl4SRVXgGiI?feature=player_detailpage",
-	    "tags": "english, sammy, davis"
-	},
-	{
-	    "title": "I can't get started",
-	    "artists": "Sammy Davis Jr",
-	    "link": "https://www.youtube.com/watch?v=dfEK9rDVC9U",
-	    "embed": "//www.youtube.com/embed/dfEK9rDVC9U?feature=player_detailpage",
-	    "tags": "english, sammy, davis"
-	},
-	{
-	    "title": "I've got you under my skin (Medley)",
-	    "artists": "Sammy Davis Jr",
-	    "link": "https://www.youtube.com/watch?v=HueEyusETJI",
-	    "embed": "//www.youtube.com/embed/HueEyusETJI?feature=player_detailpage",
-	    "tags": "english, sammy, davis, medley, live"
-	},
-        {
-            "title": "One for my Baby and one more for the Road",
-	    "artists": "Sammy Davis Jr",
-            "link": "https://www.youtube.com/watch?v=UkHvw5eP5zU",
-            "embed": "//www.youtube.com/embed/UkHvw5eP5zU?feature=player_detailpage",
-	    "tags": "english, sammy, davis, medley, live"
-        },
-	{
-	    "title": "Somewhere along the way",
-	    "artists": "Nat King Cole, Sammy Davis Jr",
-	    "link": "https://www.youtube.com/watch?v=4MH_8-iHBxs",
-	    "embed": "//www.youtube.com/embed/4MH_8-iHBxs?feature=player_detailpage",
-	    "tags": "english, nat king, nat king cole, sammy, davis"
-	},
-	{
-	    "title": "Smile",
-	    "artists": "Nat King Cole",
-	    "link": "https://www.youtube.com/watch?v=UN8oLGBNXpE",
-	    "embed": "//www.youtube.com/embed/UN8oLGBNXpE?feature=player_detailpage",
-	    "tags": "english, nat king, nat king cole"
-	},
-	{
-	    "title": "The way you look tonight",
-	    "artists": "Nat King Cole",
-	    "link": "https://www.youtube.com/watch?v=7tRA2jbfy-4",
-	    "embed": "//www.youtube.com/embed/7tRA2jbfy-4?feature=player_detailpage",
-	    "tags": "english, nat king, nat king cole"
-	},
-	{
-	    "title": "Hi Lili Hi Lo",
-	    "artists": "Nat King Cole",
-	    "link": "https://www.youtube.com/watch?v=y9N_gQLn6QE",
-	    "embed": "//www.youtube.com/embed/y9N_gQLn6QE?feature=player_detailpage",
-	    "tags": "english, nat king, nat king cole"
-	},
-	{
-	    "title": "Walkin' My Baby Back Home",
-	    "artists": "Nat King Cole",
-	    "link": "https://www.youtube.com/watch?v=tkVYbwUzcPQ",
-	    "embed": "//www.youtube.com/embed/tkVYbwUzcPQ?feature=player_detailpage",
-	    "tags": "english, nat king, nat king cole"
-	},
-	{
-	    "title": "What a wonderful world",
-	    "artists": "Louis Armstrong",
-	    "link": "https://www.youtube.com/watch?v=E2VCwBzGdPM",
-	    "embed": "//www.youtube.com/embed/E2VCwBzGdPM?feature=player_detailpage",
-	    "tags": "english, louis, armstrong"
-	},
-	{
-	    "title": "When you're smiling",
-	    "artists": "Louis Armstrong",
-	    "link": "https://www.youtube.com/watch?v=bOH_mioL3TU",
-	    "embed": "//www.youtube.com/embed/bOH_mioL3TU?feature=player_detailpage",
-	    "tags": "english, louis, armstrong"
-	},
-	{
-	    "title": "Saint Louis Blues",
-	    "artists": "Louis Armstrong",
-	    "link": "https://www.youtube.com/watch?v=D2TUlUwa3_o",
-	    "embed": "//www.youtube.com/embed/D2TUlUwa3_o?feature=player_detailpage",
-	    "tags": "english, louis, armstrong"
-	},
-	{
-	    "title": "Dream a little Dreamer",
-	    "artists": "Louis Armstrong",
-	    "link": "https://www.youtube.com/watch?v=R-xzfwDAn1I",
-	    "embed": "//www.youtube.com/embed/R-xzfwDAn1I?feature=player_detailpage",
-	    "tags": "english, louis, armstrong"
-	},
-	{
-	    "title": "La vie en rose",
-	    "artists": "Louis Armstrong",
-	    "link": "https://www.youtube.com/watch?v=8IJzYAda1wA",
-	    "embed": "//www.youtube.com/embed/8IJzYAda1wA?feature=player_detailpage",
-	    "tags": "english, louis, armstrong"
-	},
-	{
-	    "title": "Nobody knows the trouble I've seen",
-	    "artists": "Louis Armstrong",
-	    "link": "https://www.youtube.com/watch?v=SVKKRzemX_w",
-	    "embed": "//www.youtube.com/embed/SVKKRzemX_w?feature=player_detailpage",
-	    "tags": "english, louis, armstrong"
-	},
-	{
-	    "title": "Georgia on my mind",
-	    "artists": "Louis Armstrong",
-	    "link": "https://www.youtube.com/watch?v=pjyyD0CVXNA",
-	    "embed": "//www.youtube.com/embed/pjyyD0CVXNA?feature=player_detailpage",
-	    "tags": "english, louis, armstrong"
-	},
-	{
-	    "title": "Mein Toh Chalta",
-	    "artists": "Papon",
-	    "link": "https://www.youtube.com/watch?v=QDpAfFCDUOA",
-	    "embed": "//www.youtube.com/embed/QDpAfFCDUOA?feature=player_detailpage",
-	    "tags": "hindi, papon, east india company, mtv, indies, OneForTheRoad"
-	},
-	{
-	    "title": "Heyy Bhagwan",
-	    "artists": "Raghu Dixit",
-	    "link": "http://www.youtube.com/watch?v=F7F0vs3H1S4",
-	    "embed": "//www.youtube.com/embed/F7F0vs3H1S4?feature=player_detailpage",
-	    "tags": "hindi, raghu dixit, , mtv, indies, OneForTheRoad"
-	},
-	{
-	    "title": "Rang Zinda Hain - Swarathma (Official)",
-	    "artists": "Swarathma",
-	    "link": "http://www.youtube.com/watch?v=LmJvsLyInrw",
-	    "embed": "//www.youtube.com/embed/LmJvsLyInrw?feature=player_detailpage",
-	    "tags": "hindi, Swarathma, indies"
-	},
-	{
-	    "title": "Pyaasi - Swarathma feat. Shubha Mudgal",
-	    "artists": "Swarathma, Shubha Mudgal",
-	    "link": "http://www.youtube.com/watch?v=gCii9Pmjxho",
-	    "embed": "//www.youtube.com/embed/gCii9Pmjxho?feature=player_detailpage",
-	    "tags": "hindi, Swarathma, indies"
-	},
-	{
-	    "title": "I'm a Man",
-	    "artists": "Spencer Davis",
-	    "link": "http://www.youtube.com/watch?v=POCUgBSVENQ",
-	    "embed": "//www.youtube.com/embed/POCUgBSVENQ?feature=player_detailpage",
-	    "tags": "english, spencer davis, mad men, ost"
-	},
-	{
-	    "title": "For Your Love",
-	    "artists": "The Yardbirds",
-	    "link": "http://www.youtube.com/watch?v=pn6cxaKRwtk",
-	    "embed": "//www.youtube.com/embed/pn6cxaKRwtk?feature=player_detailpage",
-	    "tags": "english, yardbirds"
-	},
-	{
-	    "title": "Baba O'Riley - The Who",
-	    "artists": "The Who",
-	    "link": "http://www.youtube.com/watch?v=GS1JZOAI-vo",
-	    "embed": "//www.youtube.com/embed/GS1JZOAI-vo?feature=player_detailpage",
-	    "tags": "english, the who"
-	},
-	{
-	    "title": "Whole Lotta Love - Lyrics",
-	    "artists": "Led Zeppelin",
-	    "link": "http://www.youtube.com/watch?v=u0EYEdWsGR4",
-	    "embed": "//www.youtube.com/embed/u0EYEdWsGR4?feature=player_detailpage",
-	    "tags": "english, led Zeppelin, ledzep"
-	},
-	{
-	    "title": "Dazed and Confused",
-	    "artists": "Led Zeppelin",
-	    "link": "http://www.youtube.com/watch?v=BzZ6pyRGI30",
-	    "embed": "//www.youtube.com/embed/BzZ6pyRGI30?feature=player_detailpage",
-	    "tags": "english, led Zeppelin, ledzep"
-	},
-	{
-	    "title": "Banjara - Maatibaani ft. Mooralala Marwada",
-	    "artists": "Maatibaani, Mooralala Marwada",
-	    "link": "http://www.youtube.com/watch?v=6igYlWqhm-U",
-	    "embed": "//www.youtube.com/embed/6igYlWqhm-U?feature=player_detailpage",
-	    "tags": "hindi, rajasthani, maatibaani, kabir, indies"
-	},
-	{
-	    "title": "Boondan Boondan - Maatibaani ft. Ankita Joshi & Noor Mohammed Sodha",
-	    "artists": "Maatibaani, Ankita Joshi, Noor Mohammed Sodha",
-	    "link": "http://www.youtube.com/watch?v=C3HtzIgYVc4",
-	    "embed": "//www.youtube.com/embed/C3HtzIgYVc4?feature=player_detailpage",
-	    "tags": "hindi, maatibaani, indies, monsoon, rain"
-	},
-	{
-	    "title": "Piya - Shankar Tucker ft. Shriram Iyer",
-	    "artists": "Shankar Tucker, Shriram Iyer",
-	    "link": "http://www.youtube.com/watch?v=2uX0_9ST3cw",
-	    "embed": "//www.youtube.com/embed/2uX0_9ST3cw?feature=player_detailpage",
-	    "tags": "hindi, shankar tucker, indies, theShrutiBox"
-	},
-	{
-	    "title": "Phir Le Aaya - Unplugged",
-	    "artists": "Arijit Singh",
-	    "link": "http://www.youtube.com/watch?v=IvU-RyEPlkQ",
-	    "embed": "//www.youtube.com/embed/IvU-RyEPlkQ?feature=player_detailpage",
-	    "tags": "hindi, cokestudio, season3, arijit singh, unplugged"
-	},
-	{
-	    "title": "Ilahi - Unplugged",
-	    "artists": "Arijit Singh",
-	    "link": "http://www.youtube.com/watch?v=82uFBhi6UwY",
-	    "embed": "//www.youtube.com/embed/82uFBhi6UwY?feature=player_detailpage",
-	    "tags": "hindi, cokestudio, season3, arijit singh, unplugged"
-	},
-	{
-    	"title": "Duaa - Unplugged",
-	    "artists": "Arijit Singh",
-	    "link": "http://www.youtube.com/watch?v=_ahuMbevryE",
-	    "embed": "//www.youtube.com/embed/_ahuMbevryE?feature=player_detailpage",
-	    "tags": "hindi, cokestudio, season3, arijit singh, unplugged"
-	},
-	{
-    	"title": "Kabira - Unplugged",
-	    "artists": "Arijit Singh",
-	    "link": "http://www.youtube.com/watch?v=M7jloHyWVxE",
-	    "embed": "//www.youtube.com/embed/M7jloHyWVxE?feature=player_detailpage",
-	    "tags": "hindi, cokestudio, season3, arijit singh, unplugged"
-	},
-	{
-    	"title": "Maaeri - Unplugged",
-    	"artists": "Euphoria, Palash Sen",
-    	"link": "http://www.youtube.com/watch?v=M-AOcmNUYQ0",
-    	"embed": "//www.youtube.com/embed/M-AOcmNUYQ0?feature=player_detailpage",
- 	   "tags": "hindi, cokestudio, season1, mtv, euphoria, palash sen, unplugged"
-	},
-	{
-    	"title": "Guncha Koi - Unplugged",
-    	"artists": "Mohit Chauhan",
-    	"link": "http://www.youtube.com/watch?v=nW313ZtRRik",
-    	"embed": "//www.youtube.com/embed/nW313ZtRRik?feature=player_detailpage",
- 	   "tags": "hindi, mohit chauhan, gazhal, bollywood, unplugged"
-	},
-	{
-    	"title": "Babaji Ki Booti - Go Goa Gone",
-    	"artists": "Anand Tiwari, Kunal Khemu, Raj, DK, Bornali Deuri",
-    	"link": "http://www.youtube.com/watch?v=U9f_YMWuorc",
-    	"embed": "//www.youtube.com/embed/U9f_YMWuorc?feature=player_detailpage",
- 	   "tags": "hindi, anand tiwari, bollywood, high"
-	},
-        {
-          "title": "One",
-          "artists": "Johnny Cash",
-          "link": "https://www.youtube.com/watch?v=CGrR-7_OBpA",
-          "embed": "//www.youtube.com/embed/CGrR-7_OBpA?feature=player_detailpage",
-          "tags": "english, johnny, cash"
+          "title": "You Can Never Go Home Again",
+          "artists": "Gangstagrass",
+          "link": "https://www.youtube.com/watch?v=cCEHQ_nhxOA",
+          "embed": "//www.youtube.com/embed/cCEHQ_nhxOA?feature=player_detailpage",
+          "tags": "english, gangstagrass"
         },
         {
-          "title": "Solitary Man",
-          "artists": "Johnny Cash",
-          "link": "https://www.youtube.com/watch?v=OVHnWyDmdw",
-          "embed": "//www.youtube.com/embed/OVHnWyDmdw?feature=player_detailpage",
-          "tags": "english, johnny, cash"
+          "title": "Devil Like Me (Official Music Video)",
+          "artists": "Rainbow Kitten Surprise",
+          "link": "https://www.youtube.com/watch?v=43shWAw01Vs",
+          "embed": "//www.youtube.com/embed/43shWAw01Vs?feature=player_detailpage",
+          "tags": "english, rainbowkittensurprise"
         },
         {
-          "title": "I won't back down",
-          "artists": "Johnny Cash",
-          "link": "https://www.youtube.com/watch?v=N8i5NLyXZdc",
-          "embed": "//www.youtube.com/embed/N8i5NLyXZdc?feature=player_detailpage",
-          "tags": "english, johnny, cash"
+          "title": "In Hell I'll Be In Good Company (Official Music Video)",
+          "artists": "The Dead South",
+          "link": "https://www.youtube.com/watch?v=B9FzVhw8_bY",
+          "embed": "//www.youtube.com/embed/B9FzVhw8_bY?feature=player_detailpage",
+          "tags": "english, thedeadsouth"
         },
         {
-          "title": "Heart of Gold",
-          "artists": "Johnny Cash",
-          "link": "https://www.youtube.com/watch?v=drsMyeXzLSo",
-          "embed": "//www.youtube.com/embed/drsMyeXzLSo?feature=player_detailpage",
-          "tags": "english, johnny, cash"
+          "title": "Sleeping on the Blacktop (Original 16 Brewery Sessions)",
+          "artists": "Colter Wall",
+          "link": "https://www.youtube.com/watch?v=qSYkikkitS0",
+          "embed": "//www.youtube.com/embed/qSYkikkitS0?feature=player_detailpage",
+          "tags": "english, colterwall"
         },
         {
-          "title": "I walk the line",
-          "artists": "Johnny Cash",
-          "link": "https://www.youtube.com/watch?v=KHF9itPLUo4",
-          "embed": "//www.youtube.com/embed/KHF9itPLUo4?feature=player_detailpage",
-          "tags": "english, johnny, cash"
+          "title": "Stuck",
+          "artists": "Ollie",
+          "link": "https://www.youtube.com/watch?v=ZWq_GMSO4rk",
+          "embed": "//www.youtube.com/embed/ZWq_GMSO4rk?feature=player_detailpage",
+          "tags": "english, ollie"
         },
         {
-          "title": "Jackson",
-          "artists": "Johnny Cash, June Carter",
-          "link": "https://www.youtube.com/watch?v=4GvD_NQrLFo",
-          "embed": "//www.youtube.com/embed/4GvD_NQrLFo?feature=player_detailpage",
-          "tags": "english, johnny, cash, june, june carter, live"
+          "title": "Iron Sky (Abbey Road Live Session)",
+          "artists": "Paolo Nutini",
+          "link": "https://www.youtube.com/watch?v=ELKbtFljucQ",
+          "embed": "//www.youtube.com/embed/ELKbtFljucQ?feature=player_detailpage",
+          "tags": "english, paolonutini"
         },
         {
-          "title": "Cocaine Blues",
-          "artists": "Johnny Cash",
-          "link": "https://www.youtube.com/watch?v=Aq344ks1ieg",
-          "embed": "//www.youtube.com/embed/Aq344ks1ieg?feature=player_detailpage",
-          "tags": "english, johnny, cash"
+          "title": "Nickel and Dime Blues",
+          "artists": "Gangstagrass",
+          "link": "https://www.youtube.com/watch?v=-DwNEiUcurc",
+          "embed": "//www.youtube.com/embed/-DwNEiUcurc?feature=player_detailpage",
+          "tags": "english, gangstagrass"
         },
         {
-          "title": "The first time ever I saw your face",
-          "artists": "Johnny Cash",
-          "link": "https://www.youtube.com/watch?v=EdSIlVZhsDw",
-          "embed": "//www.youtube.com/embed/EdSIlVZhsDw?feature=player_detailpage",
-          "tags": "english, johnny, cash"
+          "title": "Purple Rain (covers Prince, Buzzsession)",
+          "artists": "Foy Vance",
+          "link": "https://www.youtube.com/watch?v=Lw3aQtfvUx0",
+          "embed": "//www.youtube.com/embed/Lw3aQtfvUx0?feature=player_detailpage",
+          "tags": "english, foyvance, cover, live"
         },
         {
-          "title": "Folsom Prison Blues",
-          "artists": "Johnny Cash",
-          "link": "https://www.youtube.com/watch?v=rX009sWzRQg",
-          "embed": "//www.youtube.com/embed/rX009sWzRQg?feature=player_detailpage",
-          "tags": "english, johnny, cash"
+          "title": "When My Train Pulls In (Live in Griffith Park, CA)",
+          "artists": "Gary Clark Jr.",
+          "link": "https://www.youtube.com/watch?v=MPYLVQfjCts",
+          "embed": "//www.youtube.com/embed/MPYLVQfjCts?feature=player_detailpage",
+          "tags": "english, live, garyclarkjr"
         },
         {
-          "title": "Sunday Morning coming Down",
-          "artists": "Johnny Cash",
-          "link": "https://www.youtube.com/watch?v=ED5s1-Fe9FA",
-          "embed": "//www.youtube.com/embed/ED5s1-Fe9FA?feature=player_detailpage",
-          "tags": "english, johnny, cash"
+          "title": "The Devil Wears a Suit and Tie (Original 16 Brewery Sessions)",
+          "artists": "Colter Wall",
+          "link": "https://www.youtube.com/watch?v=4l4gdhPqh3E",
+          "embed": "//www.youtube.com/embed/4l4gdhPqh3E?feature=player_detailpage",
+          "tags": "english, live, colterwall"
         },
         {
-          "title": "The Man who couldn't cry",
-          "artists": "Johnny Cash",
-          "link": "https://www.youtube.com/watch?v=rgK-1mpSljI",
-          "embed": "//www.youtube.com/embed/rgK-1mpSljI?feature=player_detailpage",
-          "tags": "english, johnny, cash"
+          "title": "Electric Worry",
+          "artists": "Clutch",
+          "link": "https://www.youtube.com/watch?v=mtuVGOnX868",
+          "embed": "//www.youtube.com/embed/mtuVGOnX868?feature=player_detailpage",
+          "tags": "english, clutch"
         },
         {
-          "title": "Perfect Day",
-          "artists": "Lou Reed",
-          "link": "https://www.youtube.com/watch?v=QYEC4TZsy-Y",
-          "embed": "//www.youtube.com/embed/QYEC4TZsy-Y?feature=player_detailpage",
-          "tags": "english, lou, lou reed"
+          "title": "Oh Well / Where You Been Before (Live on KEXP)",
+          "artists": "Black Pistol Fire",
+          "link": "https://www.youtube.com/watch?v=xu_9ASyCnjA",
+          "embed": "//www.youtube.com/embed/xu_9ASyCnjA?feature=player_detailpage",
+          "tags": "english, blackpistolfire, live"
         },
         {
-          "title": "Hit the Road Jack",
-          "artists": "Ray Charles",
-          "link": "https://www.youtube.com/watch?v=Q8Tiz6INF7I",
-          "embed": "//www.youtube.com/embed/Q8Tiz6INF7I?feature=player_detailpage",
-          "tags": "english, ray, charles"
+          "title": "All The Pretty Girls (Official Video)",
+          "artists": "KALEO",
+          "link": "https://www.youtube.com/watch?v=FNwgOkl5nRY",
+          "embed": "//www.youtube.com/embed/FNwgOkl5nRY?feature=player_detailpage",
+          "tags": "english, kaleo"
         },
         {
-          "title": "Unchain My Heart (Original)",
-          "artists": "Ray Charles",
-          "link": "https://www.youtube.com/watch?v=kp_bI2vU7dE",
-          "embed": "//www.youtube.com/embed/kp_bI2vU7dE?feature=player_detailpage",
-          "tags": "english, ray, charles"
+          "title": "Burden",
+          "artists": "Foy Vance",
+          "link": "https://www.youtube.com/watch?v=U9OYW4JBWXI",
+          "embed": "//www.youtube.com/embed/U9OYW4JBWXI?feature=player_detailpage",
+          "tags": "english, foyvance"
         },
         {
-          "title": "What'd I say",
-          "artists": "Ray Charles",
-          "link": "https://www.youtube.com/watch?v=CIqWwiC1BFI",
-          "embed": "//www.youtube.com/embed/CIqWwiC1BFI?feature=player_detailpage",
-          "tags": "english, ray, charles"
+          "title": "Black Paris Blues",
+          "artists": "Mighty Mo Rodgers",
+          "link": "https://www.youtube.com/watch?v=eyyrQSY_Cgs",
+          "embed": "//www.youtube.com/embed/eyyrQSY_Cgs?feature=player_detailpage",
+          "tags": "english, mightymorodgers"
         },
         {
-          "title": "Mess Around",
-          "artists": "Ray Charles",
-          "link": "https://www.youtube.com/watch?v=Bqz876VkwwY",
-          "embed": "//www.youtube.com/embed/Bqz876VkwwY?feature=player_detailpage",
-          "tags": "english, ray, charles"
+          "title": "My Other Side (Official Video)",
+          "artists": "Taba Chake",
+          "link": "https://www.youtube.com/watch?v=MVAo-7Kgrxs",
+          "embed": "//www.youtube.com/embed/MVAo-7Kgrxs?feature=player_detailpage",
+          "tags": "english, tabachake"
         },
         {
-          "title": "I got a woman",
-          "artists": "Ray Charles",
-          "link": "https://www.youtube.com/watch?v=Mrd14PxaUco",
-          "embed": "//www.youtube.com/embed/Mrd14PxaUco?feature=player_detailpage",
-          "tags": "english, ray, charles"
+          "title": "Old Town Road (Official Video)",
+          "artists": "Lil Nas X ft. Billy Ray Cyrus",
+          "link": "https://www.youtube.com/watch?v=r7qovpFAGrQ",
+          "embed": "//www.youtube.com/embed/r7qovpFAGrQ?feature=player_detailpage",
+          "tags": "english, lilnasx, billyraycyrus"
         },
         {
-          "title": "What'd I say",
-          "artists": "Ray Charles",
-          "link": "https://www.youtube.com/watch?v=CIqWwiC1BFI",
-          "embed": "//www.youtube.com/embed/CIqWwiC1BFI?feature=player_detailpage",
-          "tags": "english, ray, charles"
+          "title": "Cradles (OFFICIAL MUSIC VIDEO)",
+          "artists": "Sub Urban",
+          "link": "https://www.youtube.com/watch?v=KBtk5FUeJbk",
+          "embed": "//www.youtube.com/embed/KBtk5FUeJbk?feature=player_detailpage",
+          "tags": "english, suburban"
         },
         {
-          "title": "Ain't No Sunshine",
-          "artists": "Bill Withers",
-          "link": "https://www.youtube.com/watch?v=tIdIqbv7SPo",
-          "embed": "//www.youtube.com/embed/tIdIqbv7SPo?feature=player_detailpage",
-          "tags": "english, bill, withers"
+          "title": "I'll Never Leave You (Live at Lightning 100)",
+          "artists": "Braison Cyrus",
+          "link": "https://www.youtube.com/watch?v=L1zkoI8bsYU",
+          "embed": "//www.youtube.com/embed/L1zkoI8bsYU?feature=player_detailpage",
+          "tags": "english, braisoncyrus"
         },
         {
-          "title": "Pretty Woman",
-          "artists": "Ray Orbison",
-          "link": "https://www.youtube.com/watch?v=lnRS3A_iIYg",
-          "embed": "//www.youtube.com/embed/lnRS3A_iIYg?feature=player_detailpage",
-          "tags": "english, ray, orbison"
+          "title": "Bullet From A Gun",
+          "artists": "SKEPTA",
+          "link": "https://www.youtube.com/watch?v=pwJXDrBik4I",
+          "embed": "//www.youtube.com/embed/pwJXDrBik4I?feature=player_detailpage",
+          "tags": "english, skepta"
         },
         {
-          "title": "Let's Twist Again",
-          "artists": "Chubby Checker",
-          "link": "https://www.youtube.com/watch?v=eh8eb_ACLl8",
-          "embed": "//www.youtube.com/embed/eh8eb_ACLl8?feature=player_detailpage",
-          "tags": "english, chubby, checker"
+          "title": "Blinding Lights (Official Music Video)",
+          "artists": "The Weeknd",
+          "link": "https://www.youtube.com/watch?v=4NRXx6U8ABQ",
+          "embed": "//www.youtube.com/embed/4NRXx6U8ABQ?feature=player_detailpage",
+          "tags": "english, theweeknd"
         },
         {
-          "title": "Gypsy",
-          "artists": "Chubby Checker",
-          "link": "https://www.youtube.com/watch?v=DButxDrfyqg",
-          "embed": "//www.youtube.com/embed/DButxDrfyqg?feature=player_detailpage",
-          "tags": "english, chubby, checker"
+          "title": "Kimono",
+          "artists": "Strawhatz",
+          "link": "https://www.youtube.com/watch?v=xLY-VBTqxO8",
+          "embed": "//www.youtube.com/embed/xLY-VBTqxO8?feature=player_detailpage",
+          "tags": "english, strawhatz"
         },
         {
-          "title": "Johnny B. Goode",
-          "artists": "Chuck Berry",
-          "link": "https://www.youtube.com/watch?v=ZFo8-JqzSCM",
-          "embed": "//www.youtube.com/embed/ZFo8-JqzSCM?feature=player_detailpage",
-          "tags": "english, chuchk, berry"
+          "title": "Far Rockaway (Official Music Video)",
+          "artists": "KAMAUU",
+          "link": "https://www.youtube.com/watch?v=Uk6eS_NVceg",
+          "embed": "//www.youtube.com/embed/Uk6eS_NVceg?feature=player_detailpage",
+          "tags": "english, kamauu"
         },
         {
-          "title": "Riding Along in my Automobile",
-          "artists": "Chuck Berry",
-          "link": "https://www.youtube.com/watch?v=l1nJC4CXsok",
-          "embed": "//www.youtube.com/embed/l1nJC4CXsok?feature=player_detailpage",
-          "tags": "english, chuchk, berry"
+          "title": "Shine On You Crazy Diamond (Remember That Night)",
+          "artists": "David Gilmour ft. Crosby and Nash",
+          "link": "https://www.youtube.com/watch?v=5uiVpxDuAhc",
+          "embed": "//www.youtube.com/embed/5uiVpxDuAhc?feature=player_detailpage",
+          "tags": "english, davidgilmour"
         },
         {
-          "title": "You never can tell",
-          "artists": "Chuck Berry",
-          "link": "https://www.youtube.com/watch?v=RoDPPgWbfXY",
-          "embed": "//www.youtube.com/embed/RoDPPgWbfXY?feature=player_detailpage",
-          "tags": "english, chuchk, berry"
+          "title": "Ocean (2012 Studio Version)",
+          "artists": "John Butler",
+          "link": "https://www.youtube.com/watch?v=jdYJf_ybyVo",
+          "embed": "//www.youtube.com/embed/jdYJf_ybyVo?feature=player_detailpage",
+          "tags": "english, johnbutler"
         },
         {
-          "title": "Bang Bang (original)",
-          "artists": "Nancy Sinatra",
-          "link": "https://www.youtube.com/watch?v=T5Xl0Qry-hA",
-          "embed": "//www.youtube.com/embed/T5Xl0Qry-hA?feature=player_detailpage",
-          "tags": "english, nancy, sinatra"
+          "title": "Dance Monkey (Official Video)",
+          "artists": "Tones and I",
+          "link": "https://www.youtube.com/watch?v=q0hyYWKXF0Q",
+          "embed": "//www.youtube.com/embed/q0hyYWKXF0Q?feature=player_detailpage",
+          "tags": "english, tonesandi"
         },
         {
-          "title": "These boots are made for walkin'",
-          "artists": "Nancy Sinatra",
-          "link": "https://www.youtube.com/watch?v=SbyAZQ45uww",
-          "embed": "//www.youtube.com/embed/SbyAZQ45uww?feature=player_detailpage",
-          "tags": "english, nancy, sinatra"
+          "title": "Wild World (cover of Cat Stevens)",
+          "artists": "Mr. Big",
+          "link": "https://www.youtube.com/watch?v=Za9LY6Q3EuI",
+          "embed": "//www.youtube.com/embed/Za9LY6Q3EuI?feature=player_detailpage",
+          "tags": "english, mrbig"
         },
         {
-          "title": "Hotel California",
-          "artists": "Nancy Sinatra",
-          "link": "https://www.youtube.com/watch?v=itStQKdOkGE",
-          "embed": "//www.youtube.com/embed/itStQKdOkGE?feature=player_detailpage",
-          "tags": "english, nancy, sinatra"
+          "title": "Troubleman",
+          "artists": "Electric Guest",
+          "link": "https://www.youtube.com/watch?v=3OC2aPCuzjo",
+          "embed": "//www.youtube.com/embed/3OC2aPCuzjo?feature=player_detailpage",
+          "tags": "english, electricguest"
         },
         {
-          "title": "Ain't No Sunshine",
-          "artists": "Nancy Sinatra",
-          "link": "https://www.youtube.com/watch?v=4IR3MwNwWKE",
-          "embed": "//www.youtube.com/embed/4IR3MwNwWKE?feature=player_detailpage",
-          "tags": "english, nancy, sinatra"
+          "title": "I Will Follow You into the Dark (‘Directions’ Music Video)",
+          "artists": "Death Cab For Cutie",
+          "link": "https://www.youtube.com/watch?v=_30V_ncBQtQ",
+          "embed": "//www.youtube.com/embed/_30V_ncBQtQ?feature=player_detailpage",
+          "tags": "english, deathcabforcutie"
         },
         {
-          "title": "Ain't No Sunshine",
-          "artists": "Freddie King",
-          "link": "https://www.youtube.com/watch?v=16AnGcB7MHA",
-          "embed": "//www.youtube.com/embed/16AnGcB7MHA?feature=player_detailpage",
-          "tags": "english, freddie, king"
+          "title": "We Don't Care (Official Video)",
+          "artists": "Audio Bullys",
+          "link": "https://www.youtube.com/watch?v=QXMUY4deXs0",
+          "embed": "//www.youtube.com/embed/QXMUY4deXs0?feature=player_detailpage",
+          "tags": "english, audiobullys"
         },
         {
-          "title": "Going Down",
-          "artists": "Freddie King",
-          "link": "https://www.youtube.com/watch?v=V_ONyukSLqA",
-          "embed": "//www.youtube.com/embed/V_ONyukSLqA?feature=player_detailpage",
-          "tags": "english, freddie, king"
+          "title": "Don't Let Me Down (Acoustic Fingerstyle Guitar, Beatles Cover)",
+          "artists": "Justin Johnson",
+          "link": "https://www.youtube.com/watch?v=BjqsISwEx3Y",
+          "embed": "//www.youtube.com/embed/BjqsISwEx3Y?feature=player_detailpage",
+          "tags": "english, justinjohnson, beatles"
         },
         {
-          "title": "Unchain My Heart",
-          "artists": "Joe Cocker",
-          "link": "https://www.youtube.com/watch?v=6eByMZJ9ueA",
-          "embed": "//www.youtube.com/embed/6eByMZJ9ueA?feature=player_detailpage",
-          "tags": "english, joe, cocker"
+          "title": "Lazy Eye (cover Silversun Pickups for Like A Version)",
+          "artists": "Violent Soho",
+          "link": "https://www.youtube.com/watch?v=u3QpswfA3_o",
+          "embed": "//www.youtube.com/embed/u3QpswfA3_o?feature=player_detailpage",
+          "tags": "english, violentsoho, likeaversion"
         },
         {
-          "title": "Ain't No Sunshine",
-          "artists": "Joe Cocker",
-          "link": "https://www.youtube.com/watch?v=ZN5RDJFwI3I",
-          "embed": "//www.youtube.com/embed/ZN5RDJFwI3I?feature=player_detailpage",
-          "tags": "english, joe, cocker"
+          "title": "The Curse",
+          "artists": "Agnes Obel",
+          "link": "https://www.youtube.com/watch?v=ZKEK5mVTOEo",
+          "embed": "//www.youtube.com/embed/ZKEK5mVTOEo?feature=player_detailpage",
+          "tags": "english, agnesobel"
         },
         {
-          "title": "Ain't No Sunshine",
-          "artists": "Nancy Sinatra",
-          "link": "https://www.youtube.com/watch?v=4IR3MwNwWKE",
-          "embed": "//www.youtube.com/embed/4IR3MwNwWKE?feature=player_detailpage",
-          "tags": "english, nancy, sinatra"
+          "title": "Ain't No Sunshine (Live at the Crossroads Guitar Festival 2010)",
+          "artists": "John Mayer",
+          "link": "https://www.youtube.com/watch?v=3ZyxyehN_Qk",
+          "embed": "//www.youtube.com/embed/3ZyxyehN_Qk?feature=player_detailpage",
+          "tags": "english, johnmayer, live"
         },
         {
-          "title": "Ain't Got No, I Got Life",
-          "artists": "Nina Simone",
-          "link": "https://www.youtube.com/watch?v=L5jI9I03q8E",
-          "embed": "//www.youtube.com/embed/L5jI9I03q8E?feature=player_detailpage",
-          "tags": "english, nina, simone"
+          "title": "I Will Possess Your Heart (Album Version video)",
+          "artists": "Death Cab for Cutie",
+          "link": "https://www.youtube.com/watch?v=pq-yP7mb8UE",
+          "embed": "//www.youtube.com/embed/pq-yP7mb8UE?feature=player_detailpage",
+          "tags": "english, deathcabforcutie"
         },
         {
-          "title": "Feeling Good",
-          "artists": "Nina Simone",
-          "link": "https://www.youtube.com/watch?v=OfJRX-8SXOs",
-          "embed": "//www.youtube.com/embed/OfJRX-8SXOs?feature=player_detailpage",
-          "tags": "english, nina, simone"
+          "title": "Nothing's Gonna Hurt You Baby",
+          "artists": "Cigarettes After Sex",
+          "link": "https://www.youtube.com/watch?v=QI8VrXkffcg",
+          "embed": "//www.youtube.com/embed/QI8VrXkffcg?feature=player_detailpage",
+          "tags": "english, cigarettesaftersex"
         },
         {
-          "title": "Heart of Gold",
-          "artists": "Neil Young",
-          "link": "https://www.youtube.com/watch?v=fQfUz6lP2BQ",
-          "embed": "//www.youtube.com/embed/fQfUz6lP2BQ?feature=player_detailpage",
-          "tags": "english, neil, young"
+          "title": "I shot the sheriff (Bob Marley cover)",
+          "artists": "The Big Push",
+          "link": "https://www.youtube.com/watch?v=Q_Qxpev7A4M",
+          "embed": "//www.youtube.com/embed/Q_Qxpev7A4M?feature=player_detailpage",
+          "tags": "english, thebigpush, cover"
         },
         {
-          "title": "Fyah Fyah",
+          "title": "Angela",
+          "artists": "The Lumineers",
+          "link": "https://www.youtube.com/watch?v=_II0fc7hgNY",
+          "embed": "//www.youtube.com/embed/_II0fc7hgNY?feature=player_detailpage",
+          "tags": "english, thelumineers, vevo"
+        },
+        {
+          "title": "Sleep On The Floor (Official Video)",
+          "artists": "The Lumineers",
+          "link": "https://www.youtube.com/watch?v=v4pi1LxuDHc",
+          "embed": "//www.youtube.com/embed/v4pi1LxuDHc?feature=player_detailpage",
+          "tags": "english, thelumineers, vevo, indie"
+        },
+        {
+          "title": "Way Down We Go (LIVE in a volcano)",
+          "artists": "Kaleo",
+          "link": "https://www.youtube.com/watch?v=9WIU5NN1Q0g",
+          "embed": "//www.youtube.com/embed/9WIU5NN1Q0g?feature=player_detailpage",
+          "tags": "english, kaleo, live"
+        },
+        {
+          "title": "State Prisoner (A COLORS SHOW)",
+          "artists": "Black Thought",
+          "link": "https://www.youtube.com/watch?v=drZ8CbGEPe4",
+          "embed": "//www.youtube.com/embed/drZ8CbGEPe4?feature=player_detailpage",
+          "tags": "english, blackthought"
+        },
+        {
+          "title": "Cherry Wine (Unplugged, Mahogany Session)",
+          "artists": "Hozier",
+          "link": "https://www.youtube.com/watch?v=EtRIz7VocNs",
+          "embed": "//www.youtube.com/embed/EtRIz7VocNs?feature=player_detailpage",
+          "tags": "english, hozier"
+        },
+        {
+          "title": "Without Falling in Love (Official Video)",
+          "artists": "Billy Raffoul",
+          "link": "https://www.youtube.com/watch?v=Dssb-GKl3Mg",
+          "embed": "//www.youtube.com/embed/Dssb-GKl3Mg?feature=player_detailpage",
+          "tags": "english, billyraffoul"
+        },
+        {
+          "title": "Comedown (A COLORS SHOW)",
+          "artists": "Josef",
+          "link": "https://www.youtube.com/watch?v=0cVfG6EybzY",
+          "embed": "//www.youtube.com/embed/0cVfG6EybzY?feature=player_detailpage",
+          "tags": "english, josef"
+        },
+        {
+          "title": "",
+          "artists": "",
+          "link": "https://www.youtube.com/watch?v=",
+          "embed": "//www.youtube.com/embed/?feature=player_detailpage",
+          "tags": "english, "
+        },
+        {
+          "title": "Moon (Official Video)",
+          "artists": "Kid Francescoli",
+          "link": "https://www.youtube.com/watch?v=fdixQDPA2h0",
+          "embed": "//www.youtube.com/embed/fdixQDPA2h0?feature=player_detailpage",
+          "tags": "english, kidfrancescoli"
+        },
+        {
+          "title": "Fade (Kanye West cover in the Live Lounge)",
+          "artists": "Chase & Status ft. Tom Grennan",
+          "link": "https://www.youtube.com/watch?v=5Ho0dLlp1Rk",
+          "embed": "//www.youtube.com/embed/5Ho0dLlp1Rk?feature=player_detailpage",
+          "tags": "english, chaseandstatus, kanyewest, cover, live, bbc"
+        },
+        {
+          "title": "No Man No Cry (live)",
+          "artists": "Jimmy Sax",
+          "link": "https://www.youtube.com/watch?v=89_KXT5ztTU",
+          "embed": "//www.youtube.com/embed/89_KXT5ztTU?feature=player_detailpage",
+          "tags": "english, jimmysax"
+        },
+        {
+          "title": "Scream, Funk My Life Up (Acoustic)",
+          "artists": "Paolo Nutini",
+          "link": "https://www.youtube.com/watch?v=uQ5zYwiEUrA",
+          "embed": "//www.youtube.com/embed/uQ5zYwiEUrA?feature=player_detailpage",
+          "tags": "english, paolonutini, acoustic"
+        },
+        {
+          "title": "Chainsmoking (Official Video)",
+          "artists": "Jacob Banks",
+          "link": "https://www.youtube.com/watch?v=wjNxTyEZBMc",
+          "embed": "//www.youtube.com/embed/wjNxTyEZBMc?feature=player_detailpage",
+          "tags": "english, jacobbanks"
+        },
+        {
+          "title": "Beautiful tango (Official Video)",
+          "artists": "Hindi Zahra",
+          "link": "https://www.youtube.com/watch?v=DoAelicv5Ek",
+          "embed": "//www.youtube.com/embed/DoAelicv5Ek?feature=player_detailpage",
+          "tags": "english, hindizahra"
+        },
+        {
+          "title": "I Can't Go on Without You (live on 89.3 The Current)",
+          "artists": "Kaleo",
+          "link": "https://www.youtube.com/watch?v=NcXsK_u4ixI",
+          "embed": "//www.youtube.com/embed/NcXsK_u4ixI?feature=player_detailpage",
+          "tags": "english, kaleo, live"
+        },
+        {
+          "title": "Jungle (Live Bedroom Recording)",
+          "artists": "Tash Sultana",
+          "link": "https://www.youtube.com/watch?v=Vn8phH0k5HI",
+          "embed": "//www.youtube.com/embed/Vn8phH0k5HI?feature=player_detailpage",
+          "tags": "english, tashsultana, live"
+        },
+        {
+          "title": "River (Official Music Video)",
+          "artists": "Leon Bridges",
+          "link": "https://www.youtube.com/watch?v=0Hegd4xNfRo",
+          "embed": "//www.youtube.com/embed/0Hegd4xNfRo?feature=player_detailpage",
+          "tags": "english, leonbridges"
+        },
+        {
+          "title": "Raggamuffin (Official Video)",
           "artists": "Selah Sue",
-          "link": "https://www.youtube.com/watch?v=HLqrIByOIWw",
-          "embed": "//www.youtube.com/embed/HLqrIByOIWw?feature=player_detailpage",
-          "tags": "english, selah, sue"
+          "link": "https://www.youtube.com/watch?v=-IunmW3wI5Q",
+          "embed": "//www.youtube.com/embed/-IunmW3wI5Q?feature=player_detailpage",
+          "tags": "english, selahsue"
         },
         {
-          "title": "I truly loved ya",
-          "artists": "Selah Sue",
-          "link": "https://www.youtube.com/watch?v=4R_j_-V21Nc",
-          "embed": "//www.youtube.com/embed/4R_j_-V21Nc?feature=player_detailpage",
-          "tags": "english, selah, sue"
+          "title": "Cringe (Stripped, Official Audio)",
+          "artists": "Matt Maeson",
+          "link": "https://www.youtube.com/watch?v=KaJqLCMUt7s",
+          "embed": "//www.youtube.com/embed/KaJqLCMUt7s?feature=player_detailpage",
+          "tags": "english, mattmaeson"
         },
         {
-          "title": "Ain't No Sunshine",
-          "artists": "Selah Sue, Ronny Mosuse",
-          "link": "https://www.youtube.com/watch?v=kt9FmFjt1vE",
-          "embed": "//www.youtube.com/embed/kt9FmFjt1vE?feature=player_detailpage",
-          "tags": "english, selah, sue, ronny, mosuse"
+          "title": "Blue Song",
+          "artists": "Mint Royale",
+          "link": "https://www.youtube.com/watch?v=dfrcZsKcVxU",
+          "embed": "//www.youtube.com/embed/dfrcZsKcVxU?feature=player_detailpage",
+          "tags": "english, mintroyale, blues"
         },
         {
-          "title": "Stuck in the middle with you",
-          "artists": "Stealers Wheel",
-          "link": "https://www.youtube.com/watch?v=DohRa9lsx0Q",
-          "embed": "//www.youtube.com/embed/DohRa9lsx0Q?feature=player_detailpage",
-          "tags": "english, stealers, wheel, joe, egan, gerry, raferty"
+          "title": "How Can You Mend a Broken Heart (Later Archive 1993)",
+          "artists": "Al Green",
+          "link": "https://www.youtube.com/watch?v=D6SbrCWplsw",
+          "embed": "//www.youtube.com/embed/D6SbrCWplsw?feature=player_detailpage",
+          "tags": "english, algreen, bbc, soul"
         },
         {
-          "title": "Good Businessman",
-          "artists": "Stealers Wheel",
-          "link": "https://www.youtube.com/watch?v=Szlccy3hYgE",
-          "embed": "//www.youtube.com/embed/Szlccy3hYgE?feature=player_detailpage",
-          "tags": "english, stealers, wheel, joe, egan, gerry, raferty"
+          "title": "Heartbeat (Official Video)",
+          "artists": "Nneka",
+          "link": "https://www.youtube.com/watch?v=6ivg3J3h5Ps",
+          "embed": "//www.youtube.com/embed/6ivg3J3h5Ps?feature=player_detailpage",
+          "tags": "english, nneka"
         },
         {
-          "title": "I'm a Believer",
-          "artists": "The Monkees",
-          "link": "https://www.youtube.com/watch?v=XfuBREMXxts",
-          "embed": "//www.youtube.com/embed/XfuBREMXxts?feature=player_detailpage",
-          "tags": "english, the, monkees"
+          "title": "When We Feel Young (Nature Tapes)",
+          "artists": "When Chai Met Toast",
+          "link": "https://www.youtube.com/watch?v=xJtp2W_z-ec",
+          "embed": "//www.youtube.com/embed/xJtp2W_z-ec?feature=player_detailpage",
+          "tags": "english, whenchaimettoast, naturetapes"
         },
         {
-          "title": "Black Betty",
-          "artists": "Ram Jam",
-          "link": "https://www.youtube.com/watch?v=R044sleOW6I",
-          "embed": "//www.youtube.com/embed/R044sleOW6I?feature=player_detailpage",
-          "tags": "english, ram, jam"
+          "title": "NRG",
+          "artists": "Chase & Status ft. Novelist",
+          "link": "https://www.youtube.com/watch?v=cpprnWM0psw",
+          "embed": "//www.youtube.com/embed/cpprnWM0psw?feature=player_detailpage",
+          "tags": "english, chaseandstatus, vevo"
         },
         {
-          "title": "Unchain My Heart",
-          "artists": "Hugh Laurie",
-          "link": "https://www.youtube.com/watch?v=8HrmAgYE-6k",
-          "embed": "//www.youtube.com/embed/8HrmAgYE-6k?feature=player_detailpage",
-          "tags": "english, hugh, laurie"
+          "title": "Skinny Love (Later Archive)",
+          "artists": "Bon Iver",
+          "link": "https://www.youtube.com/watch?v=-83qrKGZ3ps",
+          "embed": "//www.youtube.com/embed/-83qrKGZ3ps?feature=player_detailpage",
+          "tags": "english, boniver, bbc"
         },
         {
-          "title": "Wild Honey",
-          "artists": "Hugh Laurie",
-          "link": "https://www.youtube.com/watch?v=yYnJrluzbQY",
-          "embed": "//www.youtube.com/embed/yYnJrluzbQY?feature=player_detailpage",
-          "tags": "english, hugh, laurie"
+          "title": "Astronaut (Something About Your Love) (Official Video)",
+          "artists": "Mansionair",
+          "link": "https://www.youtube.com/watch?v=ZM0LD5ZOgOE",
+          "embed": "//www.youtube.com/embed/ZM0LD5ZOgOE?feature=player_detailpage",
+          "tags": "english, mansionair, vevo"
         },
         {
-          "title": "Send Me To The 'Lectric Chair",
-          "artists": "Hugh Laurie",
-          "link": "https://www.youtube.com/watch?v=gyZHtEhYCyQ",
-          "embed": "//www.youtube.com/embed/gyZHtEhYCyQ?feature=player_detailpage",
-          "tags": "english, hugh, laurie"
+          "title": "I Wanna Get Lost With You",
+          "artists": "Stereophonics",
+          "link": "https://www.youtube.com/watch?v=b3cZqWoqweU",
+          "embed": "//www.youtube.com/embed/b3cZqWoqweU?feature=player_detailpage",
+          "tags": "english, stereophonics, vevo"
         },
         {
-          "title": "One for my Baby and one more for the Road",
-          "artists": "Hugh Laurie",
-          "link": "https://www.youtube.com/watch?v=Bbt03QEVhrk",
-          "embed": "//www.youtube.com/embed/Bbt03QEVhrk?feature=player_detailpage",
-          "tags": "english, hugh, laurie"
+          "title": "I'm Not A Saint (Official Audio)",
+          "artists": "Billy Raffoul",
+          "link": "https://www.youtube.com/watch?v=ro5_Ur3kJPk",
+          "embed": "//www.youtube.com/embed/ro5_Ur3kJPk?feature=player_detailpage",
+          "tags": "english, billyraffoul"
         },
         {
-          "title": "Careless Love",
-          "artists": "Hugh Laurie",
-          "link": "https://www.youtube.com/watch?v=ZG3zbptpKOI",
-          "embed": "//www.youtube.com/embed/ZG3zbptpKOI?feature=player_detailpage",
-          "tags": "english, hugh, laurie"
+          "title": "Into the Night",
+          "artists": "Prateek Kuhad",
+          "link": "https://www.youtube.com/watch?v=kpmSVgjvuLQ",
+          "embed": "//www.youtube.com/embed/kpmSVgjvuLQ?feature=player_detailpage",
+          "tags": "english, prateekkuhad, guitar"
         },
         {
-          "title": "Unchain My Heart",
-          "artists": "Shirley Johnson",
-          "link": "https://www.youtube.com/watch?v=kZE8Y1uGkr0",
-          "embed": "//www.youtube.com/embed/kZE8Y1uGkr0?feature=player_detailpage",
-          "tags": "english, shirley, johnson"
+          "title": "The Drive (Official Video)",
+          "artists": "Everyone You Know",
+          "link": "https://www.youtube.com/watch?v=nzsMGm9m-kE",
+          "embed": "//www.youtube.com/embed/nzsMGm9m-kE?feature=player_detailpage",
+          "tags": "english, everyoneyouknow"
         },
         {
-          "title": "Unchain My Heart",
-          "artists": "Magali Datzira, Joan Chamorro, Sant Andreu Jazz Band, Perico Sambeat",
-          "link": "https://www.youtube.com/watch?v=9XPjfrUIzzA",
-          "embed": "//www.youtube.com/embed/9XPjfrUIzzA?feature=player_detailpage",
-          "tags": "english, magali, datzira, joan, chamorro, sant, andreu, jazz, band, perico, sambeat"
+          "title": "Roll the Bones (Audiotree Live)",
+          "artists": "Shakey Graves",
+          "link": "https://www.youtube.com/watch?v=sD72LbIk02M",
+          "embed": "//www.youtube.com/embed/sD72LbIk02M?feature=player_detailpage",
+          "tags": "english, shakeygraves"
         },
         {
-          "title": "Layla (Acoustic)",
-          "artists": "Eric Clapton",
-          "link": "https://www.youtube.com/watch?v=Q_L-0Ryhmic",
-          "embed": "//www.youtube.com/embed/Q_L-0Ryhmic?feature=player_detailpage",
-          "tags": "english, eric, clapton, acoustic, live"
+          "title": "Tandava (Turban Trap)",
+          "artists": "Ultra Virus Music",
+          "link": "https://www.youtube.com/watch?v=KY1cCadNOnM",
+          "embed": "//www.youtube.com/embed/KY1cCadNOnM?feature=player_detailpage",
+          "tags": "english, trap, turbantrap, ultravirus"
         },
         {
-          "title": "Boots of Spanish Leather",
-          "artists": "Bob Dylan",
-          "link": "https://www.youtube.com/watch?v=32G4wn13LxU",
-          "embed": "//www.youtube.com/embed/32G4wn13LxU?feature=player_detailpage",
-          "tags": "english, bob, dylan, live"
+          "title": "Kiss The Girl (Live on KEXP)",
+          "artists": "Shakey Graves",
+          "link": "https://www.youtube.com/watch?v=lB2PbVV8L-0",
+          "embed": "//www.youtube.com/embed/lB2PbVV8L-0?feature=player_detailpage",
+          "tags": "english, shakeygraves"
         },
         {
-          "title": "Boots of Spanish Leather",
-          "artists": "Richie Havens",
-          "link": "https://www.youtube.com/watch?v=puGQxgxSdM4",
-          "embed": "//www.youtube.com/embed/puGQxgxSdM4?feature=player_detailpage",
-          "tags": "english, richie, havens, live"
+          "title": "I Wanted To Leave",
+          "artists": "SYML",
+          "link": "https://www.youtube.com/watch?v=oJiJmWx6wVE",
+          "embed": "//www.youtube.com/embed/oJiJmWx6wVE?feature=player_detailpage",
+          "tags": "english, syml"
         },
         {
-          "title": "Boots of Spanish Leather",
-          "artists": "Mandolin Orange",
-          "link": "https://www.youtube.com/watch?v=iOHkyZ62jjQ",
-          "embed": "//www.youtube.com/embed/iOHkyZ62jjQ?feature=player_detailpage",
-          "tags": "english, mandolin, orange, audiotree, live"
+          "title": "Grace. (Official Video)",
+          "artists": "Breathe.",
+          "link": "https://www.youtube.com/watch?v=gDGVgueUmBk",
+          "embed": "//www.youtube.com/embed/gDGVgueUmBk?feature=player_detailpage",
+          "tags": "english, breathe"
         },
         {
-          "title": "Flowers in your hair",
-          "artists": "The Lumineers",
-          "link": "https://www.youtube.com/watch?v=C6e5wxzPsQM",
-          "embed": "//www.youtube.com/embed/C6e5wxzPsQM?feature=player_detailpage",
-          "tags": "english, the, lumineers"
+          "title": "Casio",
+          "artists": "Jungle",
+          "link": "https://www.youtube.com/watch?v=7nJRGARveVc",
+          "embed": "//www.youtube.com/embed/7nJRGARveVc?feature=player_detailpage",
+          "tags": "english, jungle"
         },
         {
-          "title": "Ho Hey (Official)",
-          "artists": "The Lumineers",
-          "link": "https://www.youtube.com/watch?v=zvCBSSwgtg4",
-          "embed": "//www.youtube.com/embed/zvCBSSwgtg4?feature=player_detailpage",
-          "tags": "english, the, lumineers"
+          "title": "ROCKADOWN - Subway Session",
+          "artists": "Vanupié ft. Lidiop",
+          "link": "https://www.youtube.com/watch?v=AcHHE9bvLgY",
+          "embed": "//www.youtube.com/embed/AcHHE9bvLgY?feature=player_detailpage",
+          "tags": "english, live, busker, vanupie"
         },
         {
-          "title": "Classy Girls",
-          "artists": "The Lumineers",
-          "link": "https://www.youtube.com/watch?v=tstkNwPx0oE",
-          "embed": "//www.youtube.com/embed/tstkNwPx0oE?feature=player_detailpage",
-          "tags": "english, the, lumineers, kexp, live"
+          "title": "Only For You (Official Music Video)",
+          "artists": "Heartless Bastards",
+          "link": "https://www.youtube.com/watch?v=gmX-ceF-N1k",
+          "embed": "//www.youtube.com/embed/gmX-ceF-N1k?feature=player_detailpage",
+          "tags": "english, heartlessbastards"
         },
         {
-          "title": "Dead Sea",
-          "artists": "The Lumineers",
-          "link": "https://www.youtube.com/watch?v=WFWQdFCV5Qk",
-          "embed": "//www.youtube.com/embed/WFWQdFCV5Qk?feature=player_detailpage",
-          "tags": "english, the, lumineers, kexp, live"
+          "title": "All I Want (HAYASA G Remix)",
+          "artists": "Sarah Blasko",
+          "link": "https://www.youtube.com/watch?v=8fwDuKhMb1s",
+          "embed": "//www.youtube.com/embed/8fwDuKhMb1s?feature=player_detailpage",
+          "tags": "english, sarahblasko, electronic"
         },
         {
-          "title": "Ain't Nobody's Problem",
-          "artists": "The Lumineers",
-          "link": "https://www.youtube.com/watch?v=PALIPetaLrE",
-          "embed": "//www.youtube.com/embed/PALIPetaLrE?feature=player_detailpage",
-          "tags": "english, the, lumineers, kexp, live"
+          "title": "It Runs Through Me (Official Video)",
+          "artists": "Tom Misch ft. De La Soul",
+          "link": "https://www.youtube.com/watch?v=M1N_wbhAfQ4",
+          "embed": "//www.youtube.com/embed/M1N_wbhAfQ4?feature=player_detailpage",
+          "tags": "english, tommisch"
         },
         {
-          "title": "Boots of Spanish Leather",
-          "artists": "The Lumineers",
-          "link": "https://www.youtube.com/watch?v=dONB2sYts8E",
-          "embed": "//www.youtube.com/embed/dONB2sYts8E?feature=player_detailpage",
-          "tags": "english, the, lumineers, kexp, live"
+          "title": "No Reason",
+          "artists": "Bonobo ft. Nick Murphy",
+          "link": "https://www.youtube.com/watch?v=ebzEEEdjHj0",
+          "embed": "//www.youtube.com/embed/ebzEEEdjHj0?feature=player_detailpage",
+          "tags": "english, bonobo"
         },
         {
-          "title": "I need a Dollar",
-          "artists": "Aloe Blacc",
-          "link": "https://www.youtube.com/watch?v=nFZP8zQ5kzk",
-          "embed": "//www.youtube.com/embed/nFZP8zQ5kzk?feature=player_detailpage",
-          "tags": "english, ana, vidovic, aloe, blacc"
+          "title": "Push Off (Official Video)",
+          "artists": "The Palms",
+          "link": "https://www.youtube.com/watch?v=MgZoNI0VmdA",
+          "embed": "//www.youtube.com/embed/MgZoNI0VmdA?feature=player_detailpage",
+          "tags": "english, thepalms"
         },
         {
-          "title": "Danza Mora - Obres de Francisco Tarrega",
-          "artists": "Ana Vidovic",
-          "link": "https://www.youtube.com/watch?v=zjXDJIX2l3Y",
-          "embed": "//www.youtube.com/embed/zjXDJIX2l3Y?feature=player_detailpage",
-          "tags": "english, ana, vidovic, francisco, tarrega"
+          "title": "Drop the Game (Official Music Video)",
+          "artists": "Flume & Chet Faker",
+          "link": "https://www.youtube.com/watch?v=6vopR3ys8Kw",
+          "embed": "//www.youtube.com/embed/6vopR3ys8Kw?feature=player_detailpage",
+          "tags": "english, chetfaker, triphop"
         },
         {
-          "title": "Capricho arabe",
-          "artists": "Francisco Tarrega",
-          "link": "https://www.youtube.com/watch?v=y_goHl-GuNk",
-          "embed": "//www.youtube.com/embed/y_goHl-GuNk?feature=player_detailpage",
-          "tags": "english, francisco, tarrega"
+          "title": "Haze. (Official Video)",
+          "artists": "Breathe.",
+          "link": "https://www.youtube.com/watch?v=5ptYqaheP38",
+          "embed": "//www.youtube.com/embed/5ptYqaheP38?feature=player_detailpage",
+          "tags": "english, breathe"
         },
         {
-          "title": "Tango Maria",
-          "artists": "Francisco Tarrega",
-          "link": "https://www.youtube.com/watch?v=8EcIxJmKCQQ",
-          "embed": "//www.youtube.com/embed/8EcIxJmKCQQ?feature=player_detailpage",
-          "tags": "english, francisco, tarrega"
+          "title": "drugs (official video)",
+          "artists": "EDEN",
+          "link": "https://www.youtube.com/watch?v=IjZ75qI5BOk",
+          "embed": "//www.youtube.com/embed/IjZ75qI5BOk?feature=player_detailpage",
+          "tags": "english, eden"
         },
         {
-          "title": "Las cuatro estaciones portenas",
-          "artists": "Astor Piazolla",
-          "link": "https://www.youtube.com/watch?v=x6Jv_JrjJIY",
-          "embed": "//www.youtube.com/embed/x6Jv_JrjJIY?feature=player_detailpage",
-          "tags": "english, astor, piazolla"
+          "title": "Feel It Still (Live Stripped Down Session)",
+          "artists": "Portugal. The Man",
+          "link": "https://www.youtube.com/watch?v=F09POwrBn-M",
+          "embed": "//www.youtube.com/embed/F09POwrBn-M?feature=player_detailpage",
+          "tags": "english, portugaltheman, live" 
+        },
+        {
+          "title": "Are You All Good? (Official Video)",
+          "artists": "Breathe.",
+          "link": "https://www.youtube.com/watch?v=QqwVUrymnno",
+          "embed": "//www.youtube.com/embed/QqwVUrymnno?feature=player_detailpage",
+          "tags": "english, breathe"
+        },
+        {
+          "title": "This Train (Live)",
+          "artists": "Stu Larsen & Natsuki Kurai",
+          "link": "https://www.youtube.com/watch?v=",
+          "embed": "//www.youtube.com/embed/?feature=player_detailpage",
+          "tags": "english, stularsen, natsukikurai, guitar, harmonica, live"
+        },
+        {
+          "title": "Tadow",
+          "artists": "Fkj & Masego",
+          "link": "https://www.youtube.com/watch?v=hC8CH0Z3L54",
+          "embed": "//www.youtube.com/embed/hC8CH0Z3L54?feature=player_detailpage",
+          "tags": "english, fkj, masego, triphop"
+        },
+        {
+          "title": "Just Got Paid (Tour de Force: Royal Albert Hall)",
+          "artists": "Joe Bonamassa",
+          "link": "https://www.youtube.com/watch?v=RLl800ezYVY",
+          "embed": "//www.youtube.com/embed/RLl800ezYVY?feature=player_detailpage",
+          "tags": "english, joebonamassa, bonamassa, live, rock"
+        },
+        {
+          "title": "Riptide | Tram Sessions",
+          "artists": "Vance Joy",
+          "link": "https://www.youtube.com/watch?v=OeTVyL8swZg",
+          "embed": "//www.youtube.com/embed/OeTVyL8swZg?feature=player_detailpage",
+          "tags": "english, live, vancejoy"
+        },
+        {
+          "title": "Free Fallin' (Live at the Nokia Theatre)",
+          "artists": "John Mayer" ,
+          "link": "https://www.youtube.com/watch?v=20Ov0cDPZy8",
+          "embed": "//www.youtube.com/embed/20Ov0cDPZy8?feature=player_detailpage",
+          "tags": "english, live, johnmayer, acoustic"
+        },
+        {
+          "title": "You Killed Me on the Moon (Official Video)",
+          "artists": "BLOW",
+          "link": "https://www.youtube.com/watch?v=huwZ1bMYhLI",
+          "embed": "//www.youtube.com/embed/huwZ1bMYhLI?feature=player_detailpage",
+          "tags": "english, blow"
+        },
+        {
+          "title": "Here She Comes Again (Viduta Remix)",
+          "artists": "Röyksopp",
+          "link": "https://www.youtube.com/watch?v=YsgXFWamd9g",
+          "embed": "//www.youtube.com/embed/YsgXFWamd9g?feature=player_detailpage",
+          "tags": "english, royksopp, electronic, party"
+        },
+        {
+          "title": "Pariah (Listening Video)",
+          "artists": "Steven Wilson",
+          "link": "https://www.youtube.com/watch?v=HXNE_l1YUHU",
+          "embed": "//www.youtube.com/embed/HXNE_l1YUHU?feature=player_detailpage",
+          "tags": "english, stevenwilson"
+        },
+        {
+          "title": "Coolverine (Official Video)",
+          "artists": "Mogwai",
+          "link": "https://www.youtube.com/watch?v=8ZocDT3TmAE",
+          "embed": "//www.youtube.com/embed/8ZocDT3TmAE?feature=player_detailpage",
+          "tags": "english, mogwai"
+        },
+        {
+          "title": "Sweetie Little Jean (Unpeeled, Live Video)",
+          "artists": "Cage The Elephant",
+          "link": "https://www.youtube.com/watch?v=Skwkfl6iI5w",
+          "embed": "//www.youtube.com/embed/Skwkfl6iI5w?feature=player_detailpage",
+          "tags": "english, cagetheelephant"
+        },
+        {
+          "title": "Bitch On The Run (Live at Don Odell's Legends)",
+          "artists": "Samantha Fish",
+          "link": "https://www.youtube.com/watch?v=yHGKgKChPqA",
+          "embed": "//www.youtube.com/embed/yHGKgKChPqA?feature=player_detailpage",
+          "tags": "english, samanthafish, live"
+        },
+        {
+          "title": "Get Up",
+          "artists": "DOROTHY",
+          "link": "https://www.youtube.com/watch?v=IS7tvtvrIm8",
+          "embed": "//www.youtube.com/embed/IS7tvtvrIm8?feature=player_detailpage",
+          "tags": "english, dorothy"
+        },
+        {
+          "title": "Down to the River (Live in Bellwoods 42)",
+          "artists": "Ben Caplan",
+          "link": "https://www.youtube.com/watch?v=9PTSOKDa0NI",
+          "embed": "//www.youtube.com/embed/9PTSOKDa0NI?feature=player_detailpage",
+          "tags": "english, benkaplan, live, guitar, acoustic"
+        },
+        {
+          "title": "Cry To Me (Solomon Burke Acoustic Cover) (S.O.S. 2: Soul on a Mission)",
+          "artists": "Marc Broussard",
+          "link": "https://www.youtube.com/watch?v=hoJQQuseZ7g",
+          "embed": "//www.youtube.com/embed/hoJQQuseZ7g?feature=player_detailpage",
+          "tags": "english, marcbroussard, solomonburke, cover, acoustic"
+        },
+        {
+          "title": "Jenny's Tale",
+          "artists": "Ren",
+          "link": "https://www.youtube.com/watch?v=ZT4PtvgakLU",
+          "embed": "//www.youtube.com/embed/ZT4PtvgakLU?feature=player_detailpage",
+          "tags": "english, ren, reggae"
+        },
+        {
+          "title": "Make it rain",
+          "artists": "Foy Vance",
+          "link": "https://www.youtube.com/watch?v=hD5hIqeKNVE",
+          "embed": "//www.youtube.com/embed/hD5hIqeKNVE?feature=player_detailpage",
+          "tags": "english, foyvance"
+        },
+        {
+          "title": "Highway Tune (Official Video)",
+          "artists": "Greta Van Fleet",
+          "link": "https://www.youtube.com/watch?v=aJg4OJxp-co",
+          "embed": "//www.youtube.com/embed/aJg4OJxp-co?feature=player_detailpage",
+          "tags": "english, rock, gretavanfleet"
+        },
+        {
+          "title": "Skip The Use",
+          "artists": "Nameless World (Official Video)",
+          "link": "https://www.youtube.com/watch?v=OHXf7wEpBPI",
+          "embed": "//www.youtube.com/embed/OHXf7wEpBPI?feature=player_detailpage",
+          "tags": "english, skiptheuse"
+        },
+        {
+          "title": "Fashion Drunk (Official Video)",
+          "artists": "Otis Stacks ft. Gift Of Gab",
+          "link": "https://www.youtube.com/watch?v=VjAKeduaURc",
+          "embed": "//www.youtube.com/embed/VjAKeduaURc?feature=player_detailpage",
+          "tags": "english, otisstacks"
+        },
+        {
+          "title": "Stranger (To Stability) (Len Faki Podium Mix)",
+          "artists": "Dustin Zahn",
+          "link": "https://www.youtube.com/watch?v=y97H2hPPPws",
+          "embed": "//www.youtube.com/embed/y97H2hPPPws?feature=player_detailpage",
+          "tags": "english, dustinzahn, electronic"
+        },
+        {
+          "title": "Amsterdamned (Official Music Video)",
+          "artists": "Yellow Claw",
+          "link": "https://www.youtube.com/watch?v=NtYPh5Lh9HA",
+          "embed": "//www.youtube.com/embed/NtYPh5Lh9HA?feature=player_detailpage",
+          "tags": "english, yellowclaw, electronic"
+        },
+        {
+          "title": "Kings (Official Animated Video)",
+          "artists": "Tribe Society",
+          "link": "https://www.youtube.com/watch?v=5RbGZZnUR3g",
+          "embed": "//www.youtube.com/embed/5RbGZZnUR3g?feature=player_detailpage",
+          "tags": "english, tribesociety, synthpop"
+        },
+        {
+          "title": "Talk Is Cheap (Live At The Enmore)",
+          "artists": "Chet Faker",
+          "link": "https://www.youtube.com/watch?v=aQZDyyIyQMA",
+          "embed": "//www.youtube.com/embed/aQZDyyIyQMA?feature=player_detailpage",
+          "tags": "english, chetfaker, live, triphop, electronic"
+        },
+        {
+          "title": "A Gallant Gentleman (Live at Studios 301, Official Video)",
+          "artists": "We Lost The Sea",
+          "link": "https://www.youtube.com/watch?v=ClSWxwwUYkw",
+          "embed": "//www.youtube.com/embed/ClSWxwwUYkw?feature=player_detailpage",
+          "tags": "english, postrock, playonrepeat, welostthesea"
+        },
+        {
+          "title": "Oh Mama (Official Lyric Video)",
+          "artists": "Mariana BO ft. Sapir Amar",
+          "link": "https://www.youtube.com/watch?v=bESyXRNpW7A",
+          "embed": "//www.youtube.com/embed/bESyXRNpW7A?feature=player_detailpage",
+          "tags": "english, lyric, marianbo, electronic, party"
+        },
+        {
+          "title": "Love & Hate (Live Session)",
+          "artists": "Michael Kiwanuka",
+          "link": "https://www.youtube.com/watch?v=aMZ4QL0orw0",
+          "embed": "//www.youtube.com/embed/aMZ4QL0orw0?feature=player_detailpage",
+          "tags": "english, kiwanuka, live"
+        },
+        {
+          "title": "Mantra (Official Music Video)",
+          "artists": "Mariana BO",
+          "link": "https://www.youtube.com/watch?v=UUusFDXfA-o",
+          "embed": "//www.youtube.com/embed/UUusFDXfA-o?feature=player_detailpage",
+          "tags": "english, marianbo, trance, electronic, party"
+        },
+        {
+          "title": "Why'd You Only Call Me When You're High? (Official Video)",
+          "artists": "Arctic Monkeys",
+          "link": "https://www.youtube.com/watch?v=6366dxFf-Os",
+          "embed": "//www.youtube.com/embed/6366dxFf-Os?feature=player_detailpage",
+          "tags": "english, arcticmonkeys, rock, playonrepeat"
+        },
+        {
+          "title": "The World Is Our ___",
+          "artists": "This Will Destroy You",
+          "link": "https://www.youtube.com/watch?v=yEZGZ7LpCuk",
+          "embed": "//www.youtube.com/embed/yEZGZ7LpCuk?feature=player_detailpage",
+          "tags": "english, postrock, thiswilldestroyyou"
+        },
+        {
+          "title": "Quiet",
+          "artists": "This Will Destroy You",
+          "link": "https://www.youtube.com/watch?v=mWRa3-3UM0o",
+          "embed": "//www.youtube.com/embed/mWRa3-3UM0o?feature=player_detailpage",
+          "tags": "english, postrock, thiswilldestroyyou"
+        },
+        {
+          "title": "The Way Home",
+          "artists": "Sleep Dealer",
+          "link": "https://www.youtube.com/watch?v=nngbv6829Fg",
+          "embed": "//www.youtube.com/embed/nngbv6829Fg?feature=player_detailpage",
+          "tags": "english, sleepdealer, postrock"
+        },
+        {
+          "title": "Herstory of Glory",
+          "artists": "Do Make Say Think",
+          "link": "https://www.youtube.com/watch?v=AA_uFL1tYHU",
+          "embed": "//www.youtube.com/embed/AA_uFL1tYHU?feature=player_detailpage",
+          "tags": "english, postrock, domakesaythink"
+        },
+        {
+          "title": "Change Your Mind",
+          "artists": "CASTLEBEAT",
+          "link": "https://www.youtube.com/watch?v=c6B0SHIt4Lw",
+          "embed": "//www.youtube.com/embed/c6B0SHIt4Lw?feature=player_detailpage",
+          "tags": "english, postrock, castlebeat"
+        },
+        {
+          "title": "First Breath After Coma",
+          "artists": "Explosions in the Sky",
+          "link": "https://www.youtube.com/watch?v=mEDj4LaCcSk",
+          "embed": "//www.youtube.com/embed/mEDj4LaCcSk?feature=player_detailpage",
+          "tags": "english, explosionsinthesky, postrock"
+        },
+        {
+          "title": "Halfway to Nowhere",
+          "artists": "Chelou",
+          "link": "https://www.youtube.com/watch?v=BgP9tzt9_Z8",
+          "embed": "//www.youtube.com/embed/BgP9tzt9_Z8?feature=player_detailpage",
+          "tags": "english, chelou, trance, psychedelic, indie"
+        },
+        {
+          "title": "Come Over (Acoustic)",
+          "artists": "Rudimental ft. Anne-Marie",
+          "link": "https://www.youtube.com/watch?v=ZPMWJ7DpzoY",
+          "embed": "//www.youtube.com/embed/ZPMWJ7DpzoY?feature=player_detailpage",
+          "tags": "english, acoustic, live, rudimental, annemarie"
+        },
+        {
+          "title": "Party Goblin (Official Video)",
+          "artists": "Nick Johnson",
+          "link": "https://www.youtube.com/watch?v=hj2IcLBChWY",
+          "embed": "//www.youtube.com/embed/hj2IcLBChWY?feature=player_detailpage",
+          "tags": "english, party, nickjohnson, candyrat, acoustic, guitar"
+        },
+        {
+          "title": "Creep (cover of Radiohead)",
+          "artists": "Epic Orchestra",
+          "link": "https://www.youtube.com/watch?v=GGoYYNTjNrg",
+          "embed": "//www.youtube.com/embed/GGoYYNTjNrg?feature=player_detailpage",
+          "tags": "english, cover, orchestra, radiohead"
+        },
+        {
+          "title": "Malagueña (Live at Concierto en Bogotá, 2002)",
+          "artists": "Pepe Romero",
+          "link": "https://www.youtube.com/watch?v=COc1ljZEb-M",
+          "embed": "//www.youtube.com/embed/COc1ljZEb-M?feature=player_detailpage",
+          "tags": "english, guitar, classical, symphony"
+        },
+        {
+          "title": "Lazaretto (Live at SNL Oct/2020)",
+          "artists": "Jack White",
+          "link": "https://www.youtube.com/watch?v=pH-iOaWuC_s",
+          "embed": "//www.youtube.com/embed/pH-iOaWuC_s?feature=player_detailpage",
+          "tags": "english, live, snl, jackwhite"
+        },
+        {
+          "title": "Blue Orchid/Party Of Special Things To Do (From The Basement)",
+          "artists": "The White Stripes",
+          "link": "https://www.youtube.com/watch?v=1IOFqSgsrAg",
+          "embed": "//www.youtube.com/embed/1IOFqSgsrAg?feature=player_detailpage",
+          "tags": "english, jackwhite, thewhitestripes"
+        },
+        {
+          "title": "Ball & Biscuit, more (Live at SNL Oct/2020)",
+          "artists": "Jack White",
+          "link": "https://www.youtube.com/watch?v=bhN4M4aS50U",
+          "embed": "//www.youtube.com/embed/bhN4M4aS50U?feature=player_detailpage",
+          "tags": "english, jackwhite, snl, live"
+        },
+        {
+          "title": "We Are (Symphonic Tales)",
+          "artists": "HAEVN",
+          "link": "https://www.youtube.com/watch?v=dW4HCi1zZh8",
+          "embed": "//www.youtube.com/embed/dW4HCi1zZh8?feature=player_detailpage",
+          "tags": "english, HAEVN, symphony"
+        },
+        {
+          "title": "Heal (Lyrics) | But in the rain",
+          "artists": "Tom Odell",
+          "link": "https://www.youtube.com/watch?v=ocorNK7CKsA",
+          "embed": "//www.youtube.com/embed/ocorNK7CKsA?feature=player_detailpage",
+          "tags": "english, odell"
+        },
+        {
+          "title": "Love & Hate",
+          "artists": "Michael Kiwanuka",
+          "link": "https://www.youtube.com/watch?v=w44dlsnJ1no",
+          "embed": "//www.youtube.com/embed/w44dlsnJ1no?feature=player_detailpage",
+          "tags": "english, kiwanuka"
+        },
+        {
+          "title": "Breaking The Rules (Live Acoustic)",
+          "artists": "Jack Savoretti",
+          "link": "https://www.youtube.com/watch?v=4IiKSBkLsBM",
+          "embed": "//www.youtube.com/embed/4IiKSBkLsBM?feature=player_detailpage",
+          "tags": "english, savoretti, live, acoustic"
+        },
+        {
+          "title": "Chasing_(Demo)",
+          "artists": "NF ft. Mikayla Sippel",
+          "link": "https://www.youtube.com/watch?v=aqrr3Dj_Jn8",
+          "embed": "//www.youtube.com/embed/aqrr3Dj_Jn8?feature=player_detailpage",
+          "tags": "english, rap, hiphop, melody"
+        },
+        {
+          "title": "death bed (coffee for your head) (Official Video)",
+          "artists": "Powfu ft. beabadoobee",
+          "link": "https://www.youtube.com/watch?v=jJPMnTXl63E",
+          "embed": "//www.youtube.com/embed/jJPMnTXl63E?feature=player_detailpage",
+          "tags": "english, pop, spoken"
+        },
+        {
+          "title": "cold/mess (Audiotree Live)",
+          "artists": "Prateek Kuhad",
+          "link": "https://www.youtube.com/watch?v=avHThTm8fug",
+          "embed": "//www.youtube.com/embed/avHThTm8fug?feature=player_detailpage",
+          "tags": "english, guitar, fingerstyle"
+        },
+        {
+          "title": "Oblivion",
+          "artists": "Nadia Kossinskaja",
+          "link": "https://www.youtube.com/watch?v=Ez62cQPYyI8",
+          "embed": "//www.youtube.com/embed/Ez62cQPYyI8?feature=player_detailpage",
+          "tags": "english, guitar, classical"
+        },
+        {
+          "title": "The Entertainer (Cover of Scott Joplib)",
+          "artists": "Richard Smith",
+          "link": "https://www.youtube.com/watch?v=RCGGG9piAGY",
+          "embed": "//www.youtube.com/embed/RCGGG9piAGY?feature=player_detailpage",
+          "tags": "english, guitar, cover"
+        },
+        {
+          "title": "Helplessness Blues",
+          "artists": "Fleet Foxes",
+          "link": "https://www.youtube.com/watch?v=7HHgedNNQco",
+          "embed": "//www.youtube.com/embed/7HHgedNNQco?feature=player_detailpage",
+          "tags": "english, blues, fleet, foxes"
+        },
+        {
+          "title": "Colors (Official Live Session)",
+          "artists": "Black Pumas",
+          "link": "https://www.youtube.com/watch?v=0G383538qzQ",
+          "embed": "//www.youtube.com/embed/0G383538qzQ?feature=player_detailpage",
+          "tags": "english, pumas, live, session"
+        },
+        {
+          "title": "It's A Man's Man's Man's World",
+          "artists": "Luciano Pavarotti, James Brown",
+          "link": "https://www.youtube.com/watch?v=GaB9F3R9cIY",
+          "embed": "//www.youtube.com/embed/GaB9F3R9cIY?feature=player_detailpage",
+          "tags": "english, soul, james, brown, pavarotti"
+        },
+        {
+          "title": "Japanese Jazz Collection for Drive in Night" ,
+          "artists": "Multiple Artists",
+          "link": "https://www.youtube.com/watch?v=G68Q4lCM5pQ",
+          "embed": "//www.youtube.com/embed/G68Q4lCM5pQ?feature=player_detailpage",
+          "tags": "english, jazz, japan"
+        },
+        {
+          "title": "Keeping Me Alive (Live Acoustic)",
+          "artists": "Jonathan Roy",
+          "link": "https://www.youtube.com/watch?v=UyaZmFGyuMg",
+          "embed": "//www.youtube.com/embed/UyaZmFGyuMg?feature=player_detailpage",
+          "tags": "english, jonathan, live, acoustic"
         }
 ]
